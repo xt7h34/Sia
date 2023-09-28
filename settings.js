@@ -15,23 +15,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['201098906252'] //ur owner number
-global.ownername = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️" //ur owner name
-global.ytname = "YT: ELGAZAR" //ur yt chanel name
-global.socialm = "GitHub: ELGAZAR" //ur github or insta name
+global.owner = ['962775158080'] //ur owner number
+global.ownername = "Yahiko" //ur owner name
+global.ytname = "YT: Yahiko" //ur yt chanel name
+global.socialm = "GitHub: Yahiko" //ur github or insta name
 global.location = "Africa, Egypt, Cairo" //ur location
 
 //bot bomdy 
-global.ownernomer = "201098906252" //ur number
-global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
-global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
-global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
-global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
+global.ownernomer = "+962775158080" //ur number
+global.premium = ['962775158080'] //ur premium number
+global.botname = '𝑹𝒐𝒏𝒊𝒏' //ur bot name
+global.linkz = "" //your theme url which will be displayed on whatsapp
+global.websitex = "" //ur website to be displayed
+global.botscript = '' //script link
+global.themeemoji = "☕" //ur theme emoji
+global.packname = "⍣ياهيكو الامبراطور⍣" //ur sticker watermark packname
 global.author = "⍣01098906252⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+global.wm = "Ronin" //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -40,31 +40,20 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: 'تم يروحي✨',
-    admin: '『 الامر دا لادمن بس! 』',
-    botAdmin: '『 ارفع البوت ادمن الاول 』',
-    premime: '『 ميزات خاصة متميزة إذا كنت ترغب في تسجيل نوع الإيجار 』',
-    owner: '『 الميزه دي للمطور بس! 』',
-    group: '『 الميزه دي للجروبات بس! 』',
-    private: '『 الميزه دي في الخاص بس! 』',
-    bot: '『 الميزه دي للبوت بس! 』',
-    wait: '『 استني شويه... 』',
-    linkm: '『 فين الرابط? 』',
+    success: 'تم ✨',
+    admin: '『 الامر ذا للرتب بس 』',
+    botAdmin: '『 خلي البوت مشرف  』',
+    premime: '『 همممممم  』',
+    owner: '『 الميزه هاي للمطور بس! 』',
+    group: '『 الميزه هاي للقروبات بس! 』',
+    private: '『 الميزه هاي في الخاص بس! 』',
+    bot: '『 الميزه هاي للبوت بس! 』',
+    wait: '『 استنا ي معلم  』',
+    linkm: '『 وين الرابط? 』',
     endLimit: 'انتهت صلاحية الحد اليومي الخاص بك ، وسيتم إعادة تعيين الحد كل 12 ساعة',
     nsfw: 'لم يتم تنشيط ميزة nsfw ، يرجى الاتصال بالمسؤول للتفعيل',
 }
 
-//media target
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-
-//menu image maker
-global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
 //adventure1
     global.limitawal = {
@@ -89,12 +78,12 @@ global.limitAwal = {
 //adventure2
 global.emot = {
 role: '🏆',
-level: '🎚️',
+level: '✴️',
 limit: '📊',
 health: '❤️',
 exp: '💫',
 money: '💵',
-potion: '🥤',
+potion: '☕',
 diamond: '💎',
 common: '📦',
 uncommon: '🎁',
@@ -114,7 +103,7 @@ fox: '🦊',
 petFood: '🍖',
 iron: '⛓️',
 gold: '👑',
-emerald: '💚',
+emerald: '🩵',
 budak: '🏃',
 busur: '🏹',
 panah: '💘',
